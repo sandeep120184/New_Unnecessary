@@ -1,0 +1,10 @@
+import ;
+
+public class Test {
+	
+@org.testng.annotations.Test
+	public void abc()
+	{
+		System.out.println("Just to check");
+	}
+}

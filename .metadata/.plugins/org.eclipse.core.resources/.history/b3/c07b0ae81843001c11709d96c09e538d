@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name ="SeleniumPOM" thread-count="2" parallel="tests" verbose="3">
+
+<parameter name="browsername" value="5"/> 
+<parameter name="hubUrl" value="http://192.168.29.161:4445/wd/hub"/>
+ 
+
+<test name="LoginPageTest">
+		<classes>
+			<class name="src\test\java\Testngclass"/>
+		</classes>
+	</test> 
+	
+	
+</suite> 

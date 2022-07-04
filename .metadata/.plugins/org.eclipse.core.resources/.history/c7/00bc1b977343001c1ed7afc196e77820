@@ -1,0 +1,9 @@
+
+public class Test {
+	
+	@Test
+	public void abc()
+	{
+		System.out.println("Just to check");
+	}
+}
