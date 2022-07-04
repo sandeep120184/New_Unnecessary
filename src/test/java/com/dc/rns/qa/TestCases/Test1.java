@@ -25,6 +25,6 @@ public class Test1 extends BaseTest{
 
 	public void test()
 	{
-		System.out.println("first commit from team memeber");
+		System.out.println("first commit from team memeber #1");
 	}
 }
