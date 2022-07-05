@@ -27,6 +27,6 @@ public class Test1 extends BaseTest{
 	{
 		System.out.println("Jenkin -Git job checking - commit from team memeber #1");
 		System.out.println("Jenkin -Git job checking - commit from team memeber #2");
-		System.out.println("Jenkin -Git job checking - commit from team memeber #3");
+		System.out.println("Jenkin -Git job checking - commit from team memeber #4");
 	}
 }
